@@ -1,0 +1,42 @@
+div {
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+}
+
+    @media screen and (max-width: 1375px){
+        
+    }
+
+    @media screen and (max-width: 1200px){
+        
+    }
+
+    @media screen and (max-width: 1050px){
+        
+    }
+
+    @media screen and (max-width: 875px){
+        
+    }            
+
+    @media screen and (max-width: 750px){
+        
+    }
+
+    @media screen and (max-width: 600px){
+        
+    }
+
+    @media screen and (max-width: 500px){
+        
+    } 
+    
+    @media screen and (max-width: 400px){
+    
+    }
+
+    @media screen and (max-width: 350px){
+        
+    }
+    
