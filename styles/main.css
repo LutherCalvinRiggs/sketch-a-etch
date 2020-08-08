@@ -1,8 +1,23 @@
-div {
-    border: 2px solid black;
-    height: 50px;
-    width: 50px;
+body {
+    width: 960px;
+    height: 960px;
 }
+
+.grid-row {
+    display: flex;
+    flex-direction: row;
+    height: auto;
+}
+
+.pixel {
+    height: 10px;
+    width: 10px;
+}
+
+.inked {
+    background-color:black;
+}
+
 
     @media screen and (max-width: 1375px){
         
